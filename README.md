@@ -1,4 +1,4 @@
-# jupyter_dark_teme
+# jupyter_dark_theme
 
 now  how to get started:
 
